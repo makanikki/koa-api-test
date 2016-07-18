@@ -33,4 +33,9 @@ In development env if you have nodemonde instaled:
 ```
 npm test
 ```
-In production env
+In *so-called* production env
+```
+npm start
+```
+
+The app should start on the port specified in the config files.
